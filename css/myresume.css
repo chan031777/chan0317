@@ -17,24 +17,24 @@ h1, h2, h3, h4, h5, h6, .subheading{
 	text-transform: none;
 }
 
-h1,.h1{
+h1,.h1 {
 	font-size:5rem;
 }
 
-p.lead{
+p.lead {
 	font-size: 1.2rem;
 }
 
-.bg-primary{
+.bg-primary {
 	background-color: #004354!important;
 	background-image: url(../assets/img/45-degree-fabric-light.png);
 /*This is mostli intended for prototyping; please download the pattern and re-host for production environment. tank you!*/
 }
 
-.text-primary{
-    color: #004354!important;
+.text-primary {
+	color: #004354!important;
 }
 
 a {
-	color:#004354;
+	color: #004354;
 }
