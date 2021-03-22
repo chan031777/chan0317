@@ -26,15 +26,15 @@ p.lead {
 }
 
 .bg-primary {
-	background-color: #00bcc2!important;
+	background-color: #6c757d!important;
 	background-image: url(../assets/img/45-degree-fabric-light.png);
 /*This is mostli intended for prototyping; please download the pattern and re-host for production environment. tank you!*/
 }
 
 .text-primary {
-	color: #00bcc2!important;
+	color: #6c757d!important;
 }
 
 a {
-	color: #00bcc2;
+	color: #6c757d;
 }
