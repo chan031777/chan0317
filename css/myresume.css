@@ -44,6 +44,9 @@ table {
 	width:100%;
 }
 
-th, tr {
+th,td {
 	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #00bcc2;
+	font-size: 1.1rem;
 }
