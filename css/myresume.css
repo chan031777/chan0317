@@ -38,6 +38,10 @@ p.lead {
 a {
 	color: #00bcc2;
 }
+
+table {
+	border-collapse: collapse;
+	width:100%;
 th, td {
 	padding: 8px;
     text-align: left;
