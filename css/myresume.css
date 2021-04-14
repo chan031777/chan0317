@@ -38,3 +38,9 @@ p.lead {
 a {
 	color: #00bcc2;
 }
+th, td {
+	padding:8px;
+    text-align:left;
+    border-botton: lpx solid #0f4c81;
+    font-size:1.1rem;
+}
