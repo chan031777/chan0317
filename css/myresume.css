@@ -44,3 +44,6 @@ table {
 	width:100%;
 }
 
+th, tr {
+	padding: 8px;
+}
